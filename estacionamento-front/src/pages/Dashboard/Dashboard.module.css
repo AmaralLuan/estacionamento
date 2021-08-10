@@ -1,0 +1,12 @@
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.Dashboard main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 2rem;
+}

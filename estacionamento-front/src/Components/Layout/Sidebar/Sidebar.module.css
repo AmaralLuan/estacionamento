@@ -1,0 +1,8 @@
+.Sidebar {
+    background-color: rgb(196, 197, 197);
+    display: flex;
+    flex: 0 0 18%;
+    flex-flow: column;
+    flex-direction: column;
+    justify-content: space-between;
+}

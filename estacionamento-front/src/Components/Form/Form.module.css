@@ -1,0 +1,28 @@
+.Form {
+  padding: 20px;
+  width: 90%;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 6px;
+  border: 1px solid #969696;
+  flex-wrap: wrap;
+}
+
+.Form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.Form div label {
+  font-weight: bold;
+}
+
+.Form div input {
+  height: 25px;
+  margin-top: 10px;
+  border: 1px solid #5590d4;
+  border-radius: 4px;
+  padding: 0 5px;
+}
